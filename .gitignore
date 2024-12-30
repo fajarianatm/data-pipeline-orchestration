@@ -1,5 +1,2 @@
-venv/
-creds/
-.env
-**/__pycache__/
-**/.ipynb_checkpoints/
+.venv
+__pycache__
