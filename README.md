@@ -33,8 +33,7 @@ Before utilizing this repository, please refer to this [article](https://medium.
 
 #### Clone the Repository:
 ```bash
-# LFS Clone
-git lfs clone https://github.com/fajarianatm/data-pipeline-orchestration.git
+git clone https://github.com/fajarianatm/data-pipeline-orchestration.git
 ```
 
 - **Create Sentry Project** :
