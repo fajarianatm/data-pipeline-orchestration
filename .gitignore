@@ -1,3 +1,4 @@
 .venv
 .env
+pipeline_summary.csv
 __pycache__
